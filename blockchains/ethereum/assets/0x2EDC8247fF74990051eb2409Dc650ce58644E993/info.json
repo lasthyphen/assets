@@ -1,0 +1,12 @@
+{
+    "name": "Dijets",
+    "website": "https://dijets.io",
+    "description": "Dijets is an ecosystem of Decentralised Software Architecture frameworks, dApps and Integration gateway solutions.",
+    "socials": [],
+    "explorer": "https://etherscan.io/token/0x2EDC8247fF74990051eb2409Dc650ce58644E993",
+    "type": "ERC20",
+    "symbol": "DJT",
+    "decimals": 6,
+    "status": "active",
+    "id": "0x2EDC8247fF74990051eb2409Dc650ce58644E993"
+}
